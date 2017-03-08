@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: harry innovation project
+  host: harry-innovation-project
+  disk_quota: 1024M
